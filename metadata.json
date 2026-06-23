@@ -1,0 +1,6 @@
+{
+  "name": "FinTrack",
+  "description": "Modern and responsive personal financial tracking application with real-time dashboard visualization and safe local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
